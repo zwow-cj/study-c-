@@ -1,3 +1,7 @@
 # ninja log v5
 26	1179	7396298660486545	CMakeFiles/example.dir/auto.cpp.obj	d0fc6cc98a3ac718
 1181	1268	7396298661279891	example.exe	1aa13ad8bd30286b
+40	1591	7399027074468034	CMakeFiles/example.dir/auto.cpp.obj	d0fc6cc98a3ac718
+1592	2177	7399027080312692	example.exe	1aa13ad8bd30286b
+24	388	7399030382925264	CMakeFiles/example.dir/auto.cpp.obj	d0fc6cc98a3ac718
+389	500	7399030383951428	example.exe	1aa13ad8bd30286b
